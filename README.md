@@ -1,4 +1,4 @@
-# beecrowd-uri-online-judge-
+# Beecrowd (antigo uri online judge)
 Solving practical exercises from the beecrowd. 
 
 | Left-Aligned  | Center Aligned  | Right Aligned |
